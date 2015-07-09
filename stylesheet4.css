@@ -1,0 +1,38 @@
+h1 {
+  color: #FF8D32;
+  font-weight: normal;
+  margin: 20px;
+  margin-bottom: 2px;
+}
+.fill, .boxes {
+  color: #FF3AFA;
+  padding-left: 34px;
+}
+.fill {
+  line-height: 250%;
+}
+.fill input {
+  border-color: black;
+  border-radius: 2px;
+  width: 250px;
+  height: 18px;
+  margin-left: 12px;
+}
+.boxes {
+  display: inline-block;
+  word-spacing: 3px;
+  padding: 5px;
+  margin-left: 22px;
+}
+
+.boxes span {
+  margin-left: 5px;
+}
+
+.btn{
+  border: 2px solid;
+  box-shadow: 3px 3px;
+  background-color: orange;
+  margin-top:15px;
+  margin-left:32px;
+}
